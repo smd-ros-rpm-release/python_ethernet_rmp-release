@@ -1,0 +1,23 @@
+ros-indigo-python-ethernet-rmp (0.0.1-0trusty) trusty; urgency=high
+
+  * cleanup
+  * travis and cleanup
+  * Merge pull request #4 from cmdunkers/develop
+    Fixed Authors
+  * Fixed Authros
+  * Merge pull request #3 from cmdunkers/develop
+    basic cleanup completed
+  * cleanup
+  * basic cleanup
+  * Changed minor things
+  * Merge pull request #1 from cmdunkers/develop
+    Added and modified the Segway communication code to fit our needs
+  * worked on modifying rmp_config_params so the dynamic varibales are the ones read in
+  * Made it so there is only feedback received when TX is called
+  * added and modified the provided segway example
+  * Initial commit
+  * Contributors: Chris Dunkers, Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Tue, 10 Jun 2014 04:00:00 -0000
+
+
