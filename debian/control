@@ -1,0 +1,12 @@
+Source: ros-indigo-python-ethernet-rmp
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/python_ethernet_rmp
+Standards-Version: 3.9.2
+
+Package: ros-indigo-python-ethernet-rmp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Segway RMP Ethernet Python Driver
