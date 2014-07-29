@@ -221,8 +221,7 @@ class RMP:
         """
         force_nvm_feedback = [RMP_CFG_CMD_ID,RMP_CMD_FORCE_CONFIG_FEEDBACK_BITMAPS,1]
         set_user_feedback = [RMP_CFG_CMD_ID,RMP_CMD_FORCE_CONFIG_FEEDBACK_BITMAPS,0]
-        
-        
+                
         """
         Start by sending the force config feedback command and check for the
         appropriate response
