@@ -11,7 +11,6 @@ find_package(catkin REQUIRED)
 ## See http://ros.org/doc/api/catkin/html/user_guide/setup_dot_py.html
 catkin_python_setup()
 
-
 ###################################################
 ## Declare things to be passed to other projects ##
 ###################################################
